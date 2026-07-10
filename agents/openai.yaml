@@ -1,0 +1,7 @@
+interface:
+  display_name: "People Skill"
+  short_description: "Life design coaching and blueprint generation"
+  default_prompt: "Use $people-skill to guide me through a life design conversation and produce a personal blueprint."
+
+policy:
+  allow_implicit_invocation: true
