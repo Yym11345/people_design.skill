@@ -1,6 +1,6 @@
 ---
 name: people-design-skill
-description: "Use when the user wants a Stanford d.school style life-design coach for deep personal reflection, career/life direction, Odyssey planning, gravity-problem reframing, flow/energy mapping, or a detailed Chinese personal life design blueprint. Trigger for requests like people_design.skill, 人生设计, 斯坦福人生设计课, 奥德赛计划, 生涯困惑, 个人蓝图, career/life redesign, or when the user asks to be guided through a multi-round life-design conversation."
+description: "Codex and Claude Code compatible life-design skill. Use when the user wants a Stanford d.school style life-design coach for deep personal reflection, career/life direction, Odyssey planning, gravity-problem reframing, flow/energy mapping, or a detailed Chinese personal life design blueprint. Trigger for requests like people_design.skill, 人生设计, 斯坦福人生设计课, 奥德赛计划, 生涯困惑, 个人蓝图, career/life redesign, or when the user asks to be guided through a multi-round life-design conversation."
 ---
 
 # People Design Skill
