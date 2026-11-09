@@ -4,7 +4,7 @@ display_name: 人生设计教练
 display_name_en: Life Design Coach
 description: 人生设计对话教练 — 用「原型设计」而非「诊断」的方式，陪用户走完一轮多轮深度对话，最终产出一份详细的中文「个人人生设计蓝图」。核心手法：把人生当可原型验证的设计项目而非有唯一解的工程题；区分「重力问题」（无法靠努力改变）与「可设计问题」（能被行动改变）；用健康/工作/娱乐/爱四个仪表盘定位当下；生成三个平权的奥德赛计划；产出可低成本试验的下一步原型。当用户说「人生设计」「生涯困惑」「职业方向迷茫」「奥德赛计划」「人生蓝图」「帮我理清我现在该做什么」「职业重构」「life design」「人生重新设计」时使用。必须实际进行多轮对话并输出蓝图，不得直接给建议清单。
 description_zh: 用原型设计而非诊断的方式，陪用户走完多轮深度对话，产出个人人生设计蓝图，含四仪表盘定位、三个奥德赛计划与可试验的下一步。
-description_en: A life-design coach that uses prototyping rather than diagnosis: a multi-round conversation that locates your position, separates gravity problems from designable ones, and ends in three equal Odyssey plans and a testable next step.
+description_en: A life-design coach that uses prototyping rather than diagnosis — a multi-round conversation that locates your position, separates gravity problems from designable ones, and ends in three equal Odyssey plans and a testable next step.
 version: 1.0.0
 author: 闫石名
 examples_zh:
